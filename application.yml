@@ -36,5 +36,5 @@ spring:
   profiles: northamerica
 wordConfig:
   lucky-word: Payet
-    preamble: The lucky word is
+  preamble: The lucky word is
 
